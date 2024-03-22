@@ -1,0 +1,5 @@
+a,b,c,d = 18,21,17,16
+if b>=18:
+    print ("Eligible for voting")
+else:
+    print ("Not eligible")
