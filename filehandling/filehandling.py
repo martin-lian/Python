@@ -2,7 +2,7 @@
 # f.write("new line")
 # f.close()
 
-f=open("text.txt","r")
+f=open("example.txt","r")
 print(f.read())
 f.close()
 
